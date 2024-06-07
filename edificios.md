@@ -1,3 +1,4 @@
 # EDIFICIOS
-1. Edificio C – Área de Vinculación
-2. Edificio D – Industrial Eléctrica y Electrónica.
+Edificio A – Económico Administrativo.
+Edificio F – Tecnologías de la información.
+Edificio D – Industrial Eléctrica y Electrónica
