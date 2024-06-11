@@ -3,5 +3,5 @@
 2. Humberto
 3. Eric
 4. Ricardo
-5. Apolinar 
-6. Profesor 4
+5. Apolinar
+6. 6. César
