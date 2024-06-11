@@ -8,4 +8,4 @@ Este proyecto es de prueba
 
 # Primer cambio desde github
 
-1. Cambio desde el repositorio local
+1. Cambio desde el repositorio de github
