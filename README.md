@@ -7,3 +7,5 @@
 Este proyecto es de prueba
 
 # Primer cambio desde github
+
+1. Cambio desde el repositorio local
